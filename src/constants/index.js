@@ -187,22 +187,22 @@ const testimonials = [
     company: "Epicodus",
     image: "https://media.licdn.com/dms/image/C4E03AQHV81KPq_bTlg/profile-displayphoto-shrink_400_400/0/1581905259661?e=1687996800&v=beta&t=oyhQMh114VAGsDK15jUrUqGYkKym-EVpAa_KQaSm6Dk",
   },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Mitchell does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Mitchell optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
+  // {
+  //   testimonial:
+  //     "I've never met a web developer who truly cares about their clients' success like Mitchell does.",
+  //   name: "Chris Brown",
+  //   designation: "COO",
+  //   company: "DEF Corp",
+  //   image: "https://randomuser.me/api/portraits/men/5.jpg",
+  // },
+  // {
+  //   testimonial:
+  //     "After Mitchell optimized our website, our traffic increased by 50%. We can't thank them enough!",
+  //   name: "Lisa Wang",
+  //   designation: "CTO",
+  //   company: "456 Enterprises",
+  //   image: "https://randomuser.me/api/portraits/women/6.jpg",
+  // },
 ];
 
 const projects = [
