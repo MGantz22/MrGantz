@@ -28,6 +28,7 @@ const Contact = () => {
       [name]: value,
     });
   };
+  
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -132,7 +133,10 @@ const Contact = () => {
         <EarthCanvas />
       </motion.div>
     </div>
+    
   );
 };
+
+
 
 export default SectionWrapper(Contact, "contact");
