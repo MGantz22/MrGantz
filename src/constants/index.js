@@ -197,14 +197,14 @@ const testimonials = [
     company: "Epicodus",
     image: "https://media.licdn.com/dms/image/C4E03AQHV81KPq_bTlg/profile-displayphoto-shrink_400_400/0/1581905259661?e=1687996800&v=beta&t=oyhQMh114VAGsDK15jUrUqGYkKym-EVpAa_KQaSm6Dk",
   },
-  // {
-  //   testimonial:
-  //     "I've never met a web developer who truly cares about their clients' success like Mitchell does.",
-  //   name: "Chris Brown",
-  //   designation: "COO",
-  //   company: "DEF Corp",
-  //   image: "https://randomuser.me/api/portraits/men/5.jpg",
-  // },
+  {
+    testimonial:
+      "Mitchell is an impressive software developer with exceptional problem-solving skills and attention to detail. He's passionate about his work, always contributing new ideas to improve our projects, and goes the extra mile to bring the team's ideas to life. I feel fortunate to have worked with him and have no doubt that he'll make significant contributions to the field.",
+    name: "Noah Atkinson",
+    designation: "Student",
+    company: "Epicodus",
+    image: "https://avatars.githubusercontent.com/u/90878417?v=4",
+  },
   // {
   //   testimonial:
   //     "After Mitchell optimized our website, our traffic increased by 50%. We can't thank them enough!",
