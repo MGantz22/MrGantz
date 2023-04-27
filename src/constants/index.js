@@ -24,6 +24,7 @@ import {
   unity,
   Csharp,
 
+
 } from "../assets";
 
 export const navLinks = [
@@ -39,6 +40,15 @@ export const navLinks = [
     id: "contact",
     title: "Contact",
   },
+  // {
+  //   id: "LinkedIn",
+  //   title: "LinkedIn",
+  //   link: "https://www.linkedin.com/in/mitchell-gantz/",
+  // },
+  // {
+  //   id: "github",
+  //   title: "GitHub",
+  // },
 ];
 
 const services = [
@@ -225,7 +235,8 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://mgantz22.github.io/Functional-RPG/",
+    source_code_link: "https://github.com/MGantz22/Functional-RPG/",
+    live_link: "https://mgantz22.github.io/Functional-RPG/",
   },
   {
     name: "Burning Oil",
@@ -247,11 +258,12 @@ const projects = [
     ],
     image: jobit,
     source_code_link: "https://github.com/MGantz22/BurningOilV2",
+    live_link: "https://play.unity.com/mg/other/webgl-builds-338664",
   },
   {
     name: "Recipe Box",
     description:
-      "A comprehensive recipe managment platform (with the use of Authentication and Authorization) that allows users to register, login, upload recipes, share, and view everyones favorite recipe today!",
+      "A comprehensive recipe managment platform (with the use of Authentication and Authorization) that allows users to register, login, upload recipes, share, and view everyones favorite recipe today! (Live site coming soon)",
     tags: [
       {
         name: "C#",
@@ -268,6 +280,7 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://github.com/MGantz22/RecipeBox",
+    live_link: "https://github.com/MGantz22/RecipeBox",
   },
   {
     name: "The Event Handlers",
@@ -288,7 +301,8 @@ const projects = [
       },
     ],
     image: space,
-    source_code_link: "https://mgantz22.github.io/the-event-handlers/", 
+    source_code_link: "https://github.com/MGantz22/the-event-handlers",
+    live_link: "https://mgantz22.github.io/the-event-handlers/", 
   },
 ];
 
