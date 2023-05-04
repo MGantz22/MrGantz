@@ -206,6 +206,14 @@ const testimonials = [
     company: "Epicodus",
     image: "https://avatars.githubusercontent.com/u/90878417?v=4",
   },
+  {
+    testimonial:
+      "Mitchell is a fantastic full-stack developer who has a real passion for game development. I've learned so much from him, particularly when it comes to using the Unity game engine. His guidance has been invaluable, and he's been incredibly generous in sharing his knowledge and helping me improve my skills.",
+    name: "Brishna Bakshev",
+    designation: "Student",
+    company: "Epicodus",
+    image: "https://avatars.githubusercontent.com/u/121061679?v=4",
+  },
   // {
   //   testimonial:
   //     "carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff",
