@@ -214,14 +214,14 @@ const testimonials = [
     company: "Epicodus",
     image: "https://avatars.githubusercontent.com/u/121061679?v=4",
   },
-  // {
-  //   testimonial:
-  //     "carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff carpenter stuff",
-  //   name: "Thomas Johnston",
-  //   designation: "Superintendent",
-  //   company: "DoveTail",
-  //   image: "https://media.licdn.com/dms/image/C5603AQGR8oxauiZKyg/profile-displayphoto-shrink_800_800/0/1520975478328?e=1687996800&v=beta&t=rMuMwsXMjff8pFHgHag6kuCT-lBLbetNKb8FdC-sodY",
-  // },
+  {
+    testimonial:
+      "Mitchell was an integral part of our small project teams, working closely with superintendents, foremen, and other carpenters to solve complex construction problems and execute exacting design with the highest quality craftsmanship. He contributed to a positive work environment and was willing and eager to take on any task.",
+    name: "Thomas Johnston",
+    designation: "Superintendent",
+    company: "DoveTail",
+    image: "https://media.licdn.com/dms/image/C5603AQGR8oxauiZKyg/profile-displayphoto-shrink_800_800/0/1520975478328?e=1687996800&v=beta&t=rMuMwsXMjff8pFHgHag6kuCT-lBLbetNKb8FdC-sodY",
+  },
 ];
 
 const projects = [
