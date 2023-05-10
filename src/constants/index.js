@@ -53,21 +53,21 @@ export const navLinks = [
 
 const services = [
   {
+    title: "Full-Stack Developer",
+    icon: backend,
+  },
+  {
     title: "Web Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Language Agnostic",
     icon: mobile,
   },
   {
-    title: "Full-Stack Developer",
-    icon: backend,
+    title: "Game Programmer",
+    icon: creator,
   },
-  // {
-  //   title: "Game Programmer",
-  //   icon: creator,
-  // },
   {
     title: "Unity Developer",
     icon: creator,
@@ -250,7 +250,7 @@ const projects = [
   {
     name: "Burning Oil",
     description:
-      "My first Unity game! This is a 2d melee combat adventure game made during week 7 of C#, at Epicodus- Team Week #2.",
+      "I gained my initial experience with the Unity engine by creating a 2D melee combat adventure game during Team week #2 (week 7 of C#) at Epicodus. Our team consisted of John Lenz, Noah Atkinson, Justin Lee, Owen Brown, and myself, and we had four days to complete the project before presenting it on Thursday afternoon. Through collaborative efforts, we delved into the realm of game development and acquired knowledge on using and navigating Unity for the first time. This experience provided me with the opportunity to learn new technologies and apply my C# skills towards writing scripts that controlled the player, enemies, actions, and animations, which was both challenging and enjoyable.",
     tags: [
       {
         name: "C#",
@@ -272,7 +272,7 @@ const projects = [
   {
     name: "Recipe Box",
     description:
-      "A comprehensive recipe managment platform (with the use of Authentication and Authorization) that allows users to register, login, upload recipes, share, and view everyones favorite recipe today! (Live site coming soon)",
+      "An online recipe book website that hosts a collection of recipes accessible to its users. The website consists of a homepage that showcases popular or recently added recipes, along with the use of Authentication, Authorization and filtering functionalities to help users easily find a recipe that matches their preferences. This comprehensive recipe managment platform allows users to register, login, upload recipes, share, and view everyones favorite recipe! (Sorry, Live site coming soon)",
     tags: [
       {
         name: "C#",
@@ -294,7 +294,7 @@ const projects = [
   {
     name: "The Event Handlers",
     description:
-      "An arcade style, space themed side scrolling shooter game. Made during Epicodus team week #1",
+      "During the seventh week of my HTML and JavaScript course at Epicodus, the first and much-anticipated 'Team Week' was finally here. The objective was to form a development team and create a project that would be presented by the end of the week. My team, named 'The Event Handlers', consisted of Jackson Levine, Carl Sustrich, Jannon Sielaff, Jacob Maier, and Ashe Urban. Together, we decided to develop a game. I take immense pride in the outcome of our project and appreciate the knowledge I gained from my team members.",
     tags: [
       {
         name: "JavaScript",
