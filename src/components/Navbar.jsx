@@ -4,6 +4,8 @@ import { Link } from 'react-router-dom';
 import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { logo, menu, close } from "../assets";
+import navIcon2 from '../assets/github.png';
+import navIcon1 from '../assets/link.png';
 
 const Navbar = () => {
   const [active, setActive] = useState("");
@@ -61,6 +63,8 @@ const Navbar = () => {
             <a href={`#${nav.id}`}>{nav.title}</a>
           </li>
         ))}
+        <a href="https://www.linkedin.com/in/mitchell-gantz/"><img src={navIcon1} alt="" /></a>
+        <a href="https://github.com/MGantz22"><img src={navIcon2} alt="" /></a>
       </ul>
 
       <div className='sm:hidden flex flex-1 justify-end items-center'>
@@ -70,7 +74,6 @@ const Navbar = () => {
           className='w-[28px] h-[28px] object-contain'
           onClick={() => setToggle(!toggle)}
         />
-
         <div
           className={`${
             !toggle ? "hidden" : "flex"
@@ -88,14 +91,23 @@ const Navbar = () => {
                   setActive(nav.title);
                 }}
               >
+                
                 <a href={`#${nav.id}`}>{nav.title}</a>
               </li>
             ))}
+            <a href="https://www.linkedin.com/in/mitchell-gantz/"><img src={navIcon1} alt="" /></a>
+            <a href="https://github.com/MGantz22"><img src={navIcon2} alt="" /></a>
           </ul>
+         
         </div>
+        
       </div>
+      
     </div>
+     
   </nav>
+  
+
 );
 };
 
