@@ -160,33 +160,7 @@ const experiences = [
       "Upon completion of the program, I will have gained skills in .NET Core, JavaScript, React, HTML, GitHub, C#, .NET Framework, Pair Programming, Cascading Style Sheets (CSS), Test Driven Development, Object-Oriented Programming (OOP), Responsive Web Design, and User Interface Design.",
       "I Participate in code reviews and recieve constructive feedback on projects.",
     ],
-  },
-  // {
-  //   title: "Web Developer",
-  //   company_name: "Shopify",
-  //   icon: shopify,
-  //   iconBg: "#383E56",
-  //   date: "Jan 2022 - Jan 2023",
-  //   points: [
-  //     "Developing and maintaining web applications using React.js and other related technologies.",
-  //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-  //     "Implementing responsive design and ensuring cross-browser compatibility.",
-  //     "Participating in code reviews and providing constructive feedback to other developers.",
-  //   ],
-  // },
-  // {
-  //   title: "Full stack Developer",
-  //   company_name: "Meta",
-  //   icon: meta,
-  //   iconBg: "#E6DEDD",
-  //   date: "Jan 2023 - Present",
-  //   points: [
-  //     "Developing and maintaining web applications using React.js and other related technologies.",
-  //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-  //     "Implementing responsive design and ensuring cross-browser compatibility.",
-  //     "Participating in code reviews and providing constructive feedback to other developers.",
-  //   ],
-  // },
+  }
 ];
 
 const testimonials = [
@@ -216,12 +190,20 @@ const testimonials = [
   },
   {
     testimonial:
+      "Mitchell is an amazing mentor who I studied with for 6 weeks. He had the insight to consider how tough a software developer boot camp can be, helping me reach appropriate conclusions on my own terms, while sharing his knowledge of the field in an exciting and intuitive way. From recommending great books to improve my study habits, providing insights into our shared experience, he was always kind and generous with his time, even going out of his way on a weekend to assist with challenging coding problems! I’m fortunate to have had the time I did with him, and I will always recommend Mitchell to any company interested in working with him.",
+    name: "Eusebie Siebenberg",
+    designation: "Student",
+    company: "Epicodus",
+    image: "https://media.licdn.com/dms/image/D5603AQHAYExIispLgg/profile-displayphoto-shrink_800_800/0/1680208028110?e=1689811200&v=beta&t=P2KqkadenJzNrdH-3IPh58QIPk2mcoFyqaSpSlqrcRE",
+  },
+  {
+    testimonial:
       "Mitchell was an integral part of our small project teams, working closely with superintendents, foremen, and other carpenters to solve complex construction problems and execute exacting design with the highest quality craftsmanship. He contributed to a positive work environment and was willing and eager to take on any task.",
     name: "Thomas Johnston",
     designation: "Superintendent",
     company: "DoveTail",
     image: "https://media.licdn.com/dms/image/C5603AQGR8oxauiZKyg/profile-displayphoto-shrink_800_800/0/1520975478328?e=1687996800&v=beta&t=rMuMwsXMjff8pFHgHag6kuCT-lBLbetNKb8FdC-sodY",
-  },
+  }
 ];
 
 const projects = [
@@ -312,7 +294,7 @@ const projects = [
     image: space,
     source_code_link: "https://github.com/MGantz22/the-event-handlers",
     live_link: "https://mgantz22.github.io/the-event-handlers/", 
-  },
+  }
 ];
 
 export { services, technologies, experiences, testimonials, projects };
