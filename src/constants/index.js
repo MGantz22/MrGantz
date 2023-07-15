@@ -139,13 +139,13 @@ const experiences = [
     ],
   },
   {
-    title: "Graduate",
+    title: "Web and Mobile Development Certificate",
     company_name: "Epicodus",
     icon: tesla,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - July 2023",
     points: [
-      "Epicodus 2023 Tree Cohort",
+      "Epicodus 2023 Graduate, Tree Cohort-full time student (remote)",
       "A Coding bootcamp that emphasizes pair programming in a fast-paced, results-driven setting.",
       "The program offers instruction in key competencies such as C#, JavaScript, React, SQL, and .NET, with an emphasis on building a strong foundation.",
       "In addition to technical skills, the program also prioritizes Diversity, Equity, and Inclusion lessons to help students develop soft skills and become well-rounded team players.",
@@ -160,7 +160,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "June 2023 - Present",
     points: [
-      "Epicodus post grad internship (Remote)",
+      "Epicodus post grad Internship (Remote)",
       "Tasked with updating an ongoing project by implementing bug fixes and incorporating new features.",
       "Actively participating in daily stand-up sessions to receive guidance and coaching from a senior developer.",
       "Identifying potential issues and improvements for the current production phase of the project.",
