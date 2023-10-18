@@ -139,7 +139,7 @@ const experiences = [
     ],
   },
   {
-    title: "Web and Mobile Development Certificate",
+    title: "Full-Stack Software Development Certificate",
     company_name: "Epicodus",
     icon: tesla,
     iconBg: "#E6DEDD",
