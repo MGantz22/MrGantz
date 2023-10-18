@@ -177,7 +177,7 @@ const testimonials = [
     name: "Calvin Will",
     designation: "Instructor",
     company: "Epicodus",
-    image: "https://media.licdn.com/dms/image/D5603AQHla7xO5hGz9w/profile-displayphoto-shrink_800_800/0/1688948134188?e=1694649600&v=beta&t=Ylq3jHqqWv4JagHeW5vuxWCL5UgZPrpg1Ci3lzYFb7o",
+    image: "https://media.licdn.com/dms/image/D5603AQHla7xO5hGz9w/profile-displayphoto-shrink_800_800/0/1688948134188?e=1703116800&v=beta&t=3oriMwYCRGuXwRCJdwmmF1LxaMWX_OiDRg_qqNG1fPA",
   },
   {
     testimonial:
@@ -201,7 +201,7 @@ const testimonials = [
     name: "Eusebie Siebenberg",
     designation: "Student",
     company: "Epicodus",
-    image: "https://media.licdn.com/dms/image/D5603AQHAYExIispLgg/profile-displayphoto-shrink_800_800/0/1680208028110?e=1689811200&v=beta&t=P2KqkadenJzNrdH-3IPh58QIPk2mcoFyqaSpSlqrcRE",
+    image: "https://media.licdn.com/dms/image/D5635AQG41quo-I6ivw/profile-framedphoto-shrink_800_800/0/1694809755621?e=1698256800&v=beta&t=oSGXRfX-FZWkh-2YkHb3q2qB8JU0BLp9rz6nSep0qyo",
   },
   {
     testimonial:
@@ -209,7 +209,7 @@ const testimonials = [
     name: "Thomas Johnston",
     designation: "Superintendent",
     company: "DoveTail",
-    image: "https://media.licdn.com/dms/image/C5603AQGR8oxauiZKyg/profile-displayphoto-shrink_200_200/0/1520975478328?e=1694649600&v=beta&t=zL9x9qyRhXFvsMV8mfBEaV3uoVUcvjvDiHov4sQLgsQ",
+    image: "https://media.licdn.com/dms/image/C5603AQGR8oxauiZKyg/profile-displayphoto-shrink_800_800/0/1520975478328?e=1703116800&v=beta&t=inCsM03qN0dpjQCQT3BU7lHBxin_cor9aF9AjWXw9hI",
   }
 ];
 
