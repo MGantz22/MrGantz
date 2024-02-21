@@ -127,15 +127,18 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Carpenter",
-    company_name: "DoveTail General Contractors",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "Oct 2019 - Oct 2022",
+    title: "Full-Stack Developer",
+    company_name: "Opine",
+    icon: Opine,
+    iconBg: "#E6DEDD",
+    date: "June 2023 - Present",
     points: [
-      "Worked on a team of 5-10 on projects at various jobsites in both residential and commercial structures. ",
-      "Collaborated with subcontractors and trained oncoming carpenters, employing a professional attitude and thorough communication to ensure a cohesive partnership with foremen, architects, and clients.",
-      "Visited multiple different locations throughout greater Seattle to get an idea of how the company operated in the flesh, then used the skills I observed to apply firsthand on the projects and tasks I was personally assigned.",
+      "Epicodus post grad Internship (Remote)",
+      "Tasked with updating an ongoing project by implementing bug fixes and incorporating new features.",
+      "Actively participating in daily stand-up sessions to receive guidance and coaching from a senior developer.",
+      "Identifying potential issues and improvements for the current production phase of the project.",
+      "Utilizing Firestore, Firebase, JavaScript, and React.js to develop and enhance the project.",
+      "Prioritizing the delivery of user-friendly educational experiences.",
     ],
   },
   {
@@ -154,18 +157,15 @@ const experiences = [
     ],
   },
   {
-    title: "Full-Stack Developer",
-    company_name: "Opine",
-    icon: Opine,
-    iconBg: "#E6DEDD",
-    date: "June 2023 - Present",
+    title: "Carpenter",
+    company_name: "DoveTail General Contractors",
+    icon: starbucks,
+    iconBg: "#383E56",
+    date: "Oct 2019 - Oct 2022",
     points: [
-      "Epicodus post grad Internship (Remote)",
-      "Tasked with updating an ongoing project by implementing bug fixes and incorporating new features.",
-      "Actively participating in daily stand-up sessions to receive guidance and coaching from a senior developer.",
-      "Identifying potential issues and improvements for the current production phase of the project.",
-      "Utilizing Firestore, Firebase, JavaScript, and React.js to develop and enhance the project.",
-      "Prioritizing the delivery of user-friendly educational experiences.",
+      "Worked on a team of 5-10 on projects at various jobsites in both residential and commercial structures. ",
+      "Collaborated with subcontractors and trained oncoming carpenters, employing a professional attitude and thorough communication to ensure a cohesive partnership with foremen, architects, and clients.",
+      "Visited multiple different locations throughout greater Seattle to get an idea of how the company operated in the flesh, then used the skills I observed to apply firsthand on the projects and tasks I was personally assigned.",
     ],
   }
 ];
