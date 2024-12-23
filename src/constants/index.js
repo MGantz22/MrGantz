@@ -23,6 +23,7 @@ import {
   space,
   unity,
   Csharp,
+  Opine,
 
 
 } from "../assets";
@@ -40,15 +41,6 @@ export const navLinks = [
     id: "contact",
     title: "Contact",
   },
-  // {
-  //   id: "LinkedIn",
-  //   title: "LinkedIn",
-  //   link: "https://www.linkedin.com/in/mitchell-gantz/",
-  // },
-  // {
-  //   id: "github",
-  //   title: "GitHub",
-  // },
 ];
 
 const services = [
@@ -135,6 +127,36 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Full-Stack Developer",
+    company_name: "Opine",
+    icon: Opine,
+    iconBg: "#E6DEDD",
+    date: "June 2023 - Present",
+    points: [
+      "Epicodus post grad Internship (Remote)",
+      "Tasked with updating an ongoing project by implementing bug fixes and incorporating new features.",
+      "Actively participating in daily stand-up sessions to receive guidance and coaching from a senior developer.",
+      "Identifying potential issues and improvements for the current production phase of the project.",
+      "Utilizing Firestore, Firebase, JavaScript, and React.js to develop and enhance the project.",
+      "Prioritizing the delivery of user-friendly educational experiences.",
+    ],
+  },
+  {
+    title: "Full-Stack Software Development Certificate",
+    company_name: "Epicodus",
+    icon: tesla,
+    iconBg: "#E6DEDD",
+    date: "Jan 2023 - July 2023",
+    points: [
+      "Epicodus 2023 Graduate, Tree Cohort-full time student (remote)",
+      "A Coding bootcamp that emphasizes pair programming in a fast-paced, results-driven setting.",
+      "The program offers instruction in key competencies such as C#, JavaScript, React, SQL, and .NET, with an emphasis on building a strong foundation.",
+      "In addition to technical skills, the program also prioritizes Diversity, Equity, and Inclusion lessons to help students develop soft skills and become well-rounded team players.",
+      "With completion of the program, I gained skills in .NET Core, JavaScript, React, HTML, GitHub, C#, .NET Framework, Pair Programming, Cascading Style Sheets (CSS), Test Driven Development, Object-Oriented Programming (OOP), Responsive Web Design, and User Interface Design.",
+      "I Participated in code reviews and recieved constructive feedback on projects weekly.",
+    ],
+  },
+  {
     title: "Carpenter",
     company_name: "DoveTail General Contractors",
     icon: starbucks,
@@ -144,21 +166,6 @@ const experiences = [
       "Worked on a team of 5-10 on projects at various jobsites in both residential and commercial structures. ",
       "Collaborated with subcontractors and trained oncoming carpenters, employing a professional attitude and thorough communication to ensure a cohesive partnership with foremen, architects, and clients.",
       "Visited multiple different locations throughout greater Seattle to get an idea of how the company operated in the flesh, then used the skills I observed to apply firsthand on the projects and tasks I was personally assigned.",
-    ],
-  },
-  {
-    title: "Student",
-    company_name: "Epicodus",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Epicodus 2023 Tree Cohort",
-      "A Coding bootcamp that emphasizes pair programming in a fast-paced, results-driven setting.",
-      "The program offers instruction in key competencies such as C#, JavaScript, React, SQL, and .NET, with an emphasis on building a strong foundation.",
-      "In addition to technical skills, the program also prioritizes Diversity, Equity, and Inclusion lessons to help students develop soft skills and become well-rounded team players.",
-      "Upon completion of the program, I will have gained skills in .NET Core, JavaScript, React, HTML, GitHub, C#, .NET Framework, Pair Programming, Cascading Style Sheets (CSS), Test Driven Development, Object-Oriented Programming (OOP), Responsive Web Design, and User Interface Design.",
-      "I Participate in code reviews and recieve constructive feedback on projects.",
     ],
   }
 ];
@@ -170,7 +177,7 @@ const testimonials = [
     name: "Calvin Will",
     designation: "Instructor",
     company: "Epicodus",
-    image: "https://media.licdn.com/dms/image/C4E03AQHV81KPq_bTlg/profile-displayphoto-shrink_400_400/0/1581905259661?e=1687996800&v=beta&t=oyhQMh114VAGsDK15jUrUqGYkKym-EVpAa_KQaSm6Dk",
+    image: "https://media.licdn.com/dms/image/D5603AQHla7xO5hGz9w/profile-displayphoto-shrink_800_800/0/1688948134846?e=1716422400&v=beta&t=16BGlJq1fnXS1Sj505UtV87y5Sx16kSyKwrGTdwqphA",
   },
   {
     testimonial:
@@ -194,7 +201,7 @@ const testimonials = [
     name: "Eusebie Siebenberg",
     designation: "Student",
     company: "Epicodus",
-    image: "https://media.licdn.com/dms/image/D5603AQHAYExIispLgg/profile-displayphoto-shrink_800_800/0/1680208028110?e=1689811200&v=beta&t=P2KqkadenJzNrdH-3IPh58QIPk2mcoFyqaSpSlqrcRE",
+    image: "https://media.licdn.com/dms/image/D5635AQG41quo-I6ivw/profile-framedphoto-shrink_400_400/0/1694809755959?e=1711504800&v=beta&t=Pz8uqyuICnsczqRJ_S6DMIuHSFxRIDJxgOrKNeGzOjY",
   },
   {
     testimonial:
@@ -202,7 +209,7 @@ const testimonials = [
     name: "Thomas Johnston",
     designation: "Superintendent",
     company: "DoveTail",
-    image: "https://media.licdn.com/dms/image/C5603AQGR8oxauiZKyg/profile-displayphoto-shrink_800_800/0/1520975478328?e=1687996800&v=beta&t=rMuMwsXMjff8pFHgHag6kuCT-lBLbetNKb8FdC-sodY",
+    image: "https://media.licdn.com/dms/image/C5603AQGR8oxauiZKyg/profile-displayphoto-shrink_400_400/0/1520975480049?e=1716422400&v=beta&t=BDi4mNLdr919kCZayqaPYoXe6i1v4bbVne8x2jujhiw",
   }
 ];
 

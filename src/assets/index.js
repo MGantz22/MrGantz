@@ -25,6 +25,7 @@ import Csharp from "./tech/Csharp.png";
 
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import Opine from "./company/Opine.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -61,4 +62,5 @@ export {
   unity,
   Csharp,
   live,
+  Opine
 };
