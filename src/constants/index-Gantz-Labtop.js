@@ -177,7 +177,7 @@ const testimonials = [
     name: "Calvin Will",
     designation: "Instructor",
     company: "Epicodus",
-    image: "https://media.licdn.com/dms/image/D5603AQHla7xO5hGz9w/profile-displayphoto-shrink_800_800/0/1688948134188?e=1703116800&v=beta&t=3oriMwYCRGuXwRCJdwmmF1LxaMWX_OiDRg_qqNG1fPAhttps://media.licdn.com/dms/image/v2/D5603AQHla7xO5hGz9w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1688948134846?e=1740614400&v=beta&t=Vga00_X_F5zY6IczoHg7QoamJFCmua7KzecBaau0mJA",
+    image: "https://media.licdn.com/dms/image/D5603AQHla7xO5hGz9w/profile-displayphoto-shrink_800_800/0/1688948134188?e=1703116800&v=beta&t=3oriMwYCRGuXwRCJdwmmF1LxaMWX_OiDRg_qqNG1fPAhttps://media.licdn.com/dms/image/v2/D5603AQHla7xO5hGz9w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1688948134846?e=1740614400&v=beta&t=Vga00_X_F5zY6IczoHg7QoamJFCmua7KzecBaau0mJAhttps://media.licdn.com/dms/image/v2/D5603AQHla7xO5hGz9w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1688948134845?e=1740614400&v=beta&t=aN49J1tZFjBC-sy4bWkxbyHcfxKNtMHkwHr0RK56S8U",
   },
   {
     testimonial:
